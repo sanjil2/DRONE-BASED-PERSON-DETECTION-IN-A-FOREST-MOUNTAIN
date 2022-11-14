@@ -1,1 +1,1 @@
-This all are Database Images that is used by drone find them 
+This all are Database Images that is used by drone to find them 
